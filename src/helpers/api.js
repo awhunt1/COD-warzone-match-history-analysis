@@ -1,5 +1,5 @@
 const api = require('call-of-duty-api')();
-const config = require('../config');
+const config = require('../../config');
 const PlayerClass = require('../classes/Player');
 const { apiLogger: logger } = require('../helpers/log');
 let emailAddressIndex = 0;

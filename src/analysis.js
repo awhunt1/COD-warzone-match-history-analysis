@@ -1,6 +1,6 @@
 require('dotenv').config();
 const _ = require('lodash');
-const config = require('./config.js');
+const config = require('../config.js');
 const fs = require('fs').promises;
 const api = require('./helpers/api');
 const MatchClass = require('./classes/Match');

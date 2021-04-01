@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "call-of-duty-api": "^1.2.0",
+    "call-of-duty-api": "^1.3.2",
     "dotenv": "^8.2.0",
     "lodash": "^4.17.19",
     "log4js": "^6.3.0",
